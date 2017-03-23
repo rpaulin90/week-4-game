@@ -1,0 +1,126 @@
+
+body{
+	
+	font-family: "Comic Sans MS", cursive, sans-serif;
+
+	text-align: center;
+
+	background-color: #100f0f;
+
+	color: white;
+
+	opacity: 0.8;
+
+	width:100%;
+
+	height: 100%;
+
+}
+
+ul {
+
+	margin-left: 90px;
+
+	margin-right: 90px;
+}
+
+li {
+
+	background-color: #fff;
+
+	color: #100f0f;
+
+	padding: 5px;
+
+	text-align: center;
+
+}
+
+h1 {
+
+	background-color: #4b8294;
+
+	padding: 20px;
+
+	font-size: 40px;
+
+	font-weight: bold;
+
+	color: #283131;
+
+}
+
+a {
+
+	margin: 20px;
+
+}
+
+#random-number {
+
+	font-size: 30px;
+
+	padding: 20px;
+
+
+}
+
+
+#wins {
+
+	font-size: 20px;
+
+	padding: 10px;
+
+
+}
+
+#losses {
+
+	font-size: 20px;
+
+	padding: 10px;
+
+
+}
+
+#button_1 {
+
+
+
+}
+
+#button_2 {
+
+
+	
+}
+
+#button_3 {
+
+
+	
+}
+
+#button_4 {
+
+
+	
+}
+
+#score_title {
+
+	font-size: 20px;
+
+	padding: 10px;
+
+}
+
+#score {
+
+	font-size: 30px;
+
+	padding: 10px;
+
+}
+
